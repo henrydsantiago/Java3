@@ -1,0 +1,19 @@
+Los controladores llaman los eventos de otros controladores, pero no deben llamar directamente a las vistas.
+m.setRowCount(0) 
+
+
+dao: todo los comandos para la base de datos.
+El grueso de la programación está en los controladores. 
+
+Hibernate (Framework)
+JEE Web
+
+polimorfismo
+MVC
+
+---
+hilos
+sockets (bloqueo de pantallas en cadif)
+archivos de texto
+reportes
+
